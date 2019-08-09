@@ -1,0 +1,62 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+footer {
+  @apply
+  bg-blue-900
+  p-6
+}
+
+.page-section {
+  @apply
+  border-b-2
+  pb-8
+  mb-8
+}
+
+.page-section-last {
+  @apply
+  border-b-0
+}
+
+.btn-outline {
+  transition: all .1s ease-in;
+
+  @apply
+  border-2
+  p-2
+  pl-8
+  pr-8
+  m-2
+  inline-block
+  border-gray-700
+}
+
+.btn-outline:hover {
+  @apply
+  text-gray-100
+  bg-gray-700
+}
+
+.section-heading {
+  @apply
+  text-center
+  pt-6
+  pb-6
+}
+
+.btn-container {
+  @apply
+  text-center
+  pt-6
+  pb-6
+}
+
+

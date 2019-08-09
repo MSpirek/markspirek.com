@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/mspirek
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://markspirek.com
+  * I am mspirek (https://keybase.io/mspirek) on keybase.
+  * I have a public key with fingerprint 386A 9194 2C12 398B 5EA8  22FB A3F2 B717 5D7F 7D57
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ff335d87470e654afc71c1833030dfa7ad297512e890d1a0645eeaaf904a21820a",
+            "fingerprint": "386a91942c12398b5ea822fba3f2b7175d7f7d57",
+            "host": "keybase.io",
+            "key_id": "a3f2b7175d7f7d57",
+            "kid": "0101ff335d87470e654afc71c1833030dfa7ad297512e890d1a0645eeaaf904a21820a",
+            "uid": "c117e08af366f60519af776f6389e300",
+            "username": "mspirek"
+        },
+        "revoke": {
+            "sig_ids": [
+                "ae69d989a5ecd993c657524406c550a483ac33243e35346e57bacd6385c1211e0f"
+            ]
+        },
+        "service": {
+            "hostname": "markspirek.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1455490022,
+    "expire_in": 157680000,
+    "prev": "d3952388815e8d2844173b8b912abd020724fc542d3a623614d23db4f08c37d1",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMJsAnicrZJbaBVHHMZPTEyTaG9RW5DGpAOlPoQw152ZQ8UrtKGthNKLEM1hdmY2
+WU6ye9zdRA8SEEShfWilioiUthSh1moJWqEtCNVIqATbFC9QSC9CtKVEMNXgg1E7
+m9a3PnZeZnbn+/++b/4z5x6tLTTVTH3Yg5Z3zrTWjJ+ZHSy8eab2+g7gx6YKijtA
+2c5Ptt/YNCuVQwOKACKIgoAQZgSnHFqPURVojjQShEACTaC4MlhyhrAVEhqkoEeZ
+tUoFElKFkcBQgXYQhFGvTSpJGGUOS4SnJJIUa4SJFD6zSmAc+IoE2OeIM8MDbhh3
+hX1xmle4cL5KbUcYu3/uozQf7z/0/3PuwXmcRohbKFRAPC/wIENSBZy7JRHSEghz
+YWqTSA1Ypx5IK2Fiy2C4HSR2KC7bvK1p2Osyp6DYDZT1pJFCKma1kZJoj3GGKYWe
+ZgwqKojShGBKLGGEepZxX2njvJhrF0IWBmCLYzvDoVDPw/MmPTRXSfkf/w4dD7hg
+lSTOYh33u72+LKukxTxXVq3k4m3WL/2LKflhZNwluYohm6RhHIEickqdhTkXUcao
+hBDjdmC35/xSmCsY9wR0I/exQw5piGSYCCEQs8JgQSnixBe+RFj5BmLIMQ00o9gQ
+5WHiIWowMT4NoNCEGwTyg22N4tzS5VS9jul6F6lsMLFg+Oy3m+sKNU2F+oUL8tdb
+aGp84uGb/mr1Iw/KJ9ddu0G3n3jyyqHyj+eXRHvnZHfxcvuM8u6drrvILiyamW7e
++B0au+XVNX/Q07FbPv18Pfjz842//PDr7EmxdsOR7K/f9/Q23BmffHlv19X02fc6
+8ZUbx1suPVXpqL0r7n6y9nDb9KpNnQdP0T/aTg3sWrl89IuGdydORy/ufOH21y+d
+h2cnh7teW3H47cn6L9/onL29LN1z7v6rZEvzK9OXRi8+PtX4TMOykSWHnnvnp57N
+Bxcfb13YNhcuWP9pMjJ19fv+Fa8fG90/9tlvWz+6Nbf0+uXW98dbdo6+pbtP9N1c
+c/TIpo9vzpRWllp2VS9sq04c0OroyMSax9bNto59U3+vZU5ca/y5uq/6N+dyW48=
+=wFAp
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mspirek
+
+==================================================================
