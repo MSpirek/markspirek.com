@@ -53,10 +53,6 @@
           <g-image class="img-round" src="/img/cheddar.jpg" alt="" />
           <g-image class="img-round" src="/img/colby.jpg" alt="" />
         </div>
-
-<!--        <div class="btn-container">-->
-<!--          <a href="http://facebook.com/mspirek" target="_blank" class="btn-outline">I also own http://corg.is</a>-->
-<!--        </div>-->
       </div>
 
       <div class="page-section page-section-last">
