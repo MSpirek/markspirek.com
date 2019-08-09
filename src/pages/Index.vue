@@ -38,7 +38,7 @@
 
         <div class="btn-container">
           <a href="http://portfolio.markspirek.com" class="btn-outline">Portfolio</a>
-          <a href="/resume" class="btn-outline">Resume</a>
+          <a href="/mark-spirek-resume.pdf" class="btn-outline">Resume</a>
         </div>
       </section>
 
