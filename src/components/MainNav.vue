@@ -15,7 +15,7 @@
       <li><g-link class="nav-link" to="/about">About</g-link></li>
       <li><a class="nav-link" href="http://portfolio.markspirek.com">Portfolio</a></li>
       <li><a class="nav-link" href="/mark-spirek-resume.pdf">Resume</a></li>
-      <li><a class="nav-link" href="mailto:hello@markspirek.com">Contact</a></li>
+      <li><a class="nav-link" href="mailto:mark@markspirek.com">Contact</a></li>
     </ul>
   </nav>
 </template>
