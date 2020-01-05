@@ -32,12 +32,11 @@
 
       <div class="page-section">
         <div class="section-heading">
-          <h2 class="text-2xl">I host 2 Podcasts</h2>
+          <h2 class="text-2xl">I host a podcasts</h2>
           <h3>🎙️ But doesn't everyone? 🎙️</h3>
         </div>
 
         <iframe src="https://anchor.fm/thingsigotwrong/embed" class="mb-8" width="100%" title="Things I Got Wrong iframe" frameborder="0" scrolling="no"></iframe>
-        <iframe src="https://anchor.fm/focusstate/embed" width="100%" title="focus state iframe" frameborder="0" scrolling="no"></iframe>
 
         <div class="btn-container">
           <a href="https://anchor.fm/thingsigotwrong/" target="_blank" class="btn-outline">Listen on Anchor</a>

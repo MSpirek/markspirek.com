@@ -22,7 +22,7 @@
           <h2 class="text-2xl">Who are you? 🙃‍</h2>
         </div>
 
-        <p>I'm a web developer with an emphasis on front-end technology. I also offer a strong background in marketing and user experience. I endeavor to push web and mobile platforms forward by utilizing and pioneering features to delight and engage users. I have served as a key member, designer, and developer for several Chicago-area startups and digital agencies.</p>
+        <p>I'm a Full Stack Web Developer with an emphasis on front-end technology (Javascript, Node, Vue, React, Scss). I also offer a strong background in marketing and user experience. I endeavor to push web and mobile platforms forward by utilizing and pioneering features to delight and engage users. I have served as a key member, designer, and developer for several Chicago-area startups, ecommerce companies, and digital agencies.</p>
 
         <div class="btn-container">
           <g-link to="/about" class="btn-outline">More About Me</g-link>
