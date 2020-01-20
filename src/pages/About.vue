@@ -32,7 +32,7 @@
 
       <div class="page-section">
         <div class="section-heading">
-          <h2 class="text-2xl">I host a podcasts</h2>
+          <h2 class="text-2xl">I host a podcast</h2>
           <h3>🎙️ But doesn't everyone? 🎙️</h3>
         </div>
 
@@ -45,12 +45,13 @@
 
       <div class="page-section">
         <div class="section-heading">
-          <h2 class="text-2xl">I have 2 Corgis</h2>
-          <h3>🧀 named Cheddar & Colby 🧀 </h3>
+          <h2 class="text-2xl">I have 3 Corgis</h2>
+          <h3>Named Cheddar 🧀, Colby 🧀, & Timber 🌲</h3>
         </div>
         <div class="flex justify-center content-center flex-col md:flex-row">
           <g-image class="img-round" src="/img/cheddar.jpg" alt="" />
           <g-image class="img-round" src="/img/colby.jpg" alt="" />
+          <g-image class="img-round" src="/img/timber.jpg" alt="" />
         </div>
       </div>
 
