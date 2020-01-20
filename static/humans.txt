@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Mark Spirek -- UX Designer -- @MSpirek
+    Mark Spirek -- Web Developer -- @MSpirek
 
 # THANKS
 
@@ -11,4 +11,4 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3, jQuery
+    HTML5, CSS3, Vue, Gridsome
