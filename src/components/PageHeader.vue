@@ -25,6 +25,7 @@
   .nav-img {
     top: 0;
     left: 0;
+    height: 160px;
   }
 
   @media (max-width: 640px) {
