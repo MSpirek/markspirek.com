@@ -32,26 +32,12 @@
 
       <div class="page-section">
         <div class="section-heading">
-          <h2 class="text-2xl">I host a podcast</h2>
-          <h3>🎙️ But doesn't everyone? 🎙️</h3>
-        </div>
-
-        <iframe src="https://anchor.fm/thingsigotwrong/embed" class="mb-8" width="100%" title="Things I Got Wrong iframe" frameborder="0" scrolling="no"></iframe>
-
-        <div class="btn-container">
-          <a href="https://anchor.fm/thingsigotwrong/" target="_blank" class="btn-outline">Listen on Anchor</a>
-        </div>
-      </div>
-
-      <div class="page-section">
-        <div class="section-heading">
-          <h2 class="text-2xl">I have 3 Corgis</h2>
-          <h3>Named Cheddar 🧀, Colby 🧀, & Timber 🌲</h3>
+          <h2 class="text-2xl">I have 2 Corgis</h2>
+          <h3>Named Cheddar & Colby 🧀 🧀</h3>
         </div>
         <div class="flex justify-center content-center flex-col md:flex-row">
           <g-image class="img-round" src="/img/cheddar.jpg" alt="" />
           <g-image class="img-round" src="/img/colby.jpg" alt="" />
-          <g-image class="img-round" src="/img/timber.jpg" alt="" />
         </div>
       </div>
 

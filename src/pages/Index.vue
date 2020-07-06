@@ -49,8 +49,6 @@
         <ul class="flex justify-center">
           <li><a class="social-link" href="https://linkedin.com/in/mspirek" target="_blank">Linkedin</a></li>
           <li><a class="social-link" href="https://github.com/mspirek" target="_blank">Github</a></li>
-          <li><a class="social-link" href="https://gitlab.com/mspirek" target="_blank">Gitlab</a></li>
-          <li><a class="social-link" href="https://behance.net/mspirek" target="_blank">Behance</a></li>
           <li><a class="social-link" href="https://dribbble.com/mspirek" target="_blank">Dribbble</a></li>
         </ul>
       </section>
