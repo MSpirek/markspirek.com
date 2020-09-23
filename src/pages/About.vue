@@ -17,17 +17,16 @@
     <div class="container mx-auto p-10">
       <div class="page-section">
         <div class="section-heading">
-          <h2 class="text-2xl">I live in Chicago, IL</h2>
-          <h3 class="text-center">🏙️ More specifically, Logan Square 🏙️</h3>
+          <h2 class="text-2xl">I live in Austin, TX</h2>
         </div>
 
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23748.835022735377!2d-87.72694028544659!3d41.922862763452265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fcd657cef0eb1%3A0x869220375a9604d3!2sLogan+Square%2C+Chicago%2C+IL!5e0!3m2!1sen!2sus!4v1565150972509!5m2!1sen!2sus" width="100%" height="300" frameborder="0" style="border:0"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d220449.3639554548!2d-97.89348293641483!3d30.30768629459229!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644b599a0cc032f%3A0x5d9b464bd469d57a!2sAustin%2C%20TX!5e0!3m2!1sen!2sus!4v1599954586555!5m2!1sen!2sus" width="100%" height="300" frameborder="0" style="border:0"></iframe>
 
         <div class="section-heading">
-          <h3 class="text-2xl pt-6">❄️ But I hate the cold. ❄️</h3>
+          <h3 class="text-2xl pt-6">☀️ The heat is better than the cold ❄️</h3>
         </div>
 
-        <iframe type="text/html" frameborder="0" height="245" width="100%" src="//forecast.io/embed/#lat=41.9032&lon=-87.6869&name=Chicago"> </iframe>
+        <iframe type="text/html" frameborder="0" height="245" width="100%" src="//forecast.io/embed/#lat=30.2223&lon=-97.8365&name=Austin"> </iframe>
       </div>
 
       <div class="page-section">
