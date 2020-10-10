@@ -13,7 +13,7 @@
     <ul class="flex text-white justify-center">
       <li class="footer-link"><a href="mailto:mark@markspirek.com">mark@markspirek.com</a></li>
       <li class="footer-link">&mdash;</li>
-      <li class="footer-link">Chicago, IL</li>
+      <li class="footer-link">Austin, TX</li>
     </ul>
   </footer>
 </template>
