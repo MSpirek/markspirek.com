@@ -14,7 +14,7 @@
   <Layout>
     <page-hero color="bg-yellow-500" heading="About." />
 
-    <div class="container mx-auto p-10">
+    <div class="container mx-auto p-10 max-w-4xl">
       <div class="page-section">
         <div class="section-heading">
           <h2 class="text-2xl">I live in Austin, TX</h2>
@@ -50,7 +50,7 @@
           <g-image class="img-round" src="/img/me3.jpg" alt="" />
         </div>
         <div class="btn-container">
-          <a href="https://portfolio.markspirek.com" target="_blank" class="btn-outline">See my portfolio</a>
+          <a href="https://portfolio.markspirek.com" target="_blank" class="btn-outline" rel="noreferrer">See my portfolio</a>
         </div>
     </div>
     </div>

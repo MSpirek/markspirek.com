@@ -15,7 +15,7 @@
   <Layout>
     <page-hero color="bg-blue-500" heading="Web Developer. 👋" />
 
-    <div class="container mx-auto p-10">
+    <div class="container mx-auto p-10 max-w-4xl">
 
       <section class="page-section">
         <div class="section-heading">
@@ -26,7 +26,7 @@
 
         <div class="btn-container">
           <g-link to="/about" class="btn-outline">More About Me</g-link>
-          <a href="mailto:hello@markspirek.com" class="btn-outline">Contact Me️</a>
+          <a href="mailto:mark@markspirek.com" class="btn-outline">Contact Me️</a>
         </div>
 
       </section>
@@ -47,9 +47,9 @@
           <h2 class="text-2xl">Find me elsewhere 👀</h2>
         </div>
         <ul class="flex justify-center">
-          <li><a class="social-link" href="https://linkedin.com/in/mspirek" target="_blank">Linkedin</a></li>
-          <li><a class="social-link" href="https://github.com/mspirek" target="_blank">Github</a></li>
-          <li><a class="social-link" href="https://dribbble.com/mspirek" target="_blank">Dribbble</a></li>
+          <li><a class="social-link" href="https://linkedin.com/in/mspirek" target="_blank" rel="noreferrer">Linkedin</a></li>
+          <li><a class="social-link" href="https://github.com/mspirek" target="_blank" rel="noreferrer">Github</a></li>
+          <li><a class="social-link" href="https://dribbble.com/mspirek" target="_blank" rel="noreferrer">Dribbble</a></li>
         </ul>
       </section>
     </div>

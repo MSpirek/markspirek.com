@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6080c997-4758-4859-aa2a-6fe2935fb033" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PageFooter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PageFooter.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +31,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -53,6 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564632499183</updated>
+      <workItem from="1608565506752" duration="1357000" />
     </task>
     <servers />
   </component>
@@ -71,14 +77,16 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="1238" y="461" width="596" height="522" key="find.popup" timestamp="1594037481262">
-      <screen x="0" y="23" width="2560" height="1363" />
-    </state>
-    <state x="1238" y="461" width="596" height="522" key="find.popup/2560.23.2560.1417/0.23.2560.1363/-1680.318.1680.1027@0.23.2560.1363" timestamp="1594037481262" />
-    <state x="3407" y="399" width="670" height="676" key="search.everywhere.popup" timestamp="1589759873033">
-      <screen x="2560" y="23" width="2560" height="1417" />
-    </state>
-    <state x="3407" y="399" width="670" height="676" key="search.everywhere.popup/2560.23.2560.1417/0.23.2560.1363/-1680.318.1680.1027@2560.23.2560.1417" timestamp="1589759873033" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/PageFooter.vue</url>
+          <line>26</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
