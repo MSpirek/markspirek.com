@@ -14,7 +14,7 @@ export default function (Vue, { router, head, isClient }) {
   })
   head.meta.push({
     name: 'description',
-    content: 'Mark Spirek - Web Developer & UI/UX Designer, with a passion for product.'
+    content: 'Mark Spirek - Software Engineer / Front end developer'
   })
 
 }

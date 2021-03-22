@@ -5,9 +5,6 @@
     components: {
       PageHero
     },
-    metaInfo: {
-      title: 'Mark Spirek – Web Developer'
-    }
   }
 </script>
 
