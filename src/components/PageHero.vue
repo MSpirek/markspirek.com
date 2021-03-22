@@ -11,11 +11,6 @@
         required: true,
       },
     },
-    data () {
-      return {
-        message: 'Try change me!'
-      }
-    },
   }
 </script>
 
