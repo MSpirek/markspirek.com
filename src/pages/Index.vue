@@ -2,6 +2,9 @@
   import PageHero from "@/components/PageHero";
 
   export default {
+    metaInfo: {
+      title: 'Home',
+    },
     components: {
       PageHero
     },

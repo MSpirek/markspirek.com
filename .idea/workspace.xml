@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6080c997-4758-4859-aa2a-6fe2935fb033" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47ce0c940afd5013bc737b4df195bb7dd61d0577" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47ce0c940afd5013bc737b4df195bb7dd61d0577" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +60,8 @@
       <updated>1564632499183</updated>
       <workItem from="1608565506752" duration="1357000" />
       <workItem from="1616408767075" duration="1289000" />
-      <workItem from="1616410755663" duration="75000" />
+      <workItem from="1616410755663" duration="97000" />
+      <workItem from="1616599805863" duration="659000" />
     </task>
     <servers />
   </component>

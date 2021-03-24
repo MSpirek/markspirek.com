@@ -15,3 +15,5 @@ C
 src/pages/About.vue,4/7/47ce0c940afd5013bc737b4df195bb7dd61d0577
 C
 src/pages/Index.vue,7/4/747c56bc7ffe8b4601ebfe49b1fceed9659820f4
+;
+src/main.js,4/1/41d348bfb8135a570c1d2675c884f60724201c5c
