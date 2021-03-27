@@ -22,8 +22,9 @@
           <h2 class="text-2xl">Who are you? 🙃‍</h2>
         </div>
 
-        <p>I'm a software engineer with emphasis on front end web technology. I have served as a key member, designer, and engineer for several startups, ecommerce companies, and digital agencies.
-          I also offer a strong background in marketing and user experience. I endeavor to push web and mobile platforms forward by pioneering features to delight and engage users.</p>
+        <p class="pb-2">I'm a software engineer with emphasis on front end web technology especially Vue.js and component libraries. I have over 10 years of industry experience and served as a key team member and engineer for startups, ecommerce companies, and digital agencies.</p>
+        <p class="pb-2">I offer a strong background in UI design, user experience, and digital marketing. I endeavor to push web and mobile platforms forward by pioneering features to delight and engage users.</p>
+
 
         <div class="btn-container">
           <g-link to="/about" class="btn-outline">More About Me</g-link>

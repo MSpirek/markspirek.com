@@ -17,3 +17,7 @@ C
 src/pages/Index.vue,7/4/747c56bc7ffe8b4601ebfe49b1fceed9659820f4
 ;
 src/main.js,4/1/41d348bfb8135a570c1d2675c884f60724201c5c
+B
+gridsome.config.js,0/b/0b3fe44e09baa93b69dd5bdda8a6057446851e9c
+<
+package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
